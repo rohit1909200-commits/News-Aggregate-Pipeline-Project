@@ -1,0 +1,132 @@
+Title: nasa astronauts to answer questions from missouri students
+Source: NASA
+Topic: Space
+Sentiment: neutral
+Urgency: important
+--------------------------------------------------------------------------------
+Title: nasa celebrates decade of university innovation in aeronautics
+Source: NASA
+Topic: Space
+Sentiment: neutral
+Urgency: important
+--------------------------------------------------------------------------------
+Title: rocket report: some canadians don't want a spaceport; falcon hits 600 landings
+Source: Arstechnica
+Topic: Space
+Sentiment: neutral
+Urgency: important
+--------------------------------------------------------------------------------
+Title: earth from space: cloud patterns over the canary islands
+Source: ESA
+Topic: Climate
+Sentiment: neutral
+Urgency: normal
+--------------------------------------------------------------------------------
+Title: cargo mission launching saturday as crew wraps week with research
+Source: NASA
+Topic: Space
+Sentiment: positive
+Urgency: important
+--------------------------------------------------------------------------------
+Title: biotech research on station informing advanced cancer and heart treatments
+Source: NASA
+Topic: Space
+Sentiment: positive
+Urgency: normal
+--------------------------------------------------------------------------------
+Title: dna research on station promoting cancer therapies radiation repair
+Source: NASA
+Topic: AI
+Sentiment: neutral
+Urgency: normal
+--------------------------------------------------------------------------------
+Title: crew studies biotech on tuesday to advance health and space economy
+Source: NASA
+Topic: Finance
+Sentiment: positive
+Urgency: normal
+--------------------------------------------------------------------------------
+Title: roscosmos progress 93 cargo spacecraft departs station
+Source: NASA
+Topic: Space
+Sentiment: positive
+Urgency: normal
+--------------------------------------------------------------------------------
+Title: space health research fills day before cargo craft departs
+Source: NASA
+Topic: Space
+Sentiment: neutral
+Urgency: normal
+--------------------------------------------------------------------------------
+Title: plants and worms informing future missions; crew preps for computer upgrades
+Source: NASA
+Topic: Space
+Sentiment: neutral
+Urgency: normal
+--------------------------------------------------------------------------------
+Title: station orbits higher as crew runs new science experiments
+Source: NASA
+Topic: Space
+Sentiment: neutral
+Urgency: normal
+--------------------------------------------------------------------------------
+Title: crew begins new space research and installs new science gear
+Source: NASA
+Topic: Space
+Sentiment: neutral
+Urgency: normal
+--------------------------------------------------------------------------------
+Title: starliner arrives safely back on earth
+Source: Boeing
+Topic: Climate
+Sentiment: positive
+Urgency: normal
+--------------------------------------------------------------------------------
+Title: starliner heads back to earth
+Source: Boeing
+Topic: Climate
+Sentiment: neutral
+Urgency: normal
+--------------------------------------------------------------------------------
+Title: boeing’s confidence remains high in starliner’s return with crew
+Source: Boeing
+Topic: AI
+Sentiment: neutral
+Urgency: normal
+--------------------------------------------------------------------------------
+Title: starliner return to earth preps underway
+Source: Boeing
+Topic: Climate
+Sentiment: neutral
+Urgency: normal
+--------------------------------------------------------------------------------
+Title: iss daily summary report – 7/26/2024
+Source: NASA
+Topic: AI
+Sentiment: neutral
+Urgency: normal
+--------------------------------------------------------------------------------
+Title: iss daily summary report – 7/25/2024
+Source: NASA
+Topic: AI
+Sentiment: neutral
+Urgency: normal
+--------------------------------------------------------------------------------
+Title: starliner team closes in on thruster issue root cause prepares for return to earth
+Source: Boeing
+Topic: Climate
+Sentiment: negative
+Urgency: normal
+--------------------------------------------------------------------------------
+Title: iss daily summary report – 7/24/2024
+Source: NASA
+Topic: AI
+Sentiment: neutral
+Urgency: normal
+--------------------------------------------------------------------------------
+Title: iss daily summary report – 7/23/2024
+Source: NASA
+Topic: AI
+Sentiment: neutral
+Urgency: normal
+--------------------------------------------------------------------------------
